@@ -1,2 +1,4 @@
-# README-avatars for hash value.
+# README
+
+**Avatars for hash value.**
 
